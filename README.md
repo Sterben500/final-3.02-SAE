@@ -20,7 +20,7 @@ This command would install the requirements on most machines for sure.
 
 /Launching the Server
 
-    python3 main_server.py
+    python3 main_window.py
 
 /Launching the Client
 
